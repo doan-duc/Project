@@ -13,7 +13,6 @@ cdf = df[['ENGINESIZE', 'CYLINDERS', 'FUELCONSUMPTION_CITY', 'FUELCONSUMPTION_HW
 #print(ndf.sample(5))
 
 '''
-vẽ biểu đồ phân bố dữ liệuliệu
 cdf.hist()
 plt.show()
 '''
